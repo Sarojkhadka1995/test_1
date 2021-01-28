@@ -1,0 +1,17 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basisu": "^1.2.1",
+    "easyqrcodejs-nodejs": "^3.7.2",
+    "image-js": "^0.31.3",
+    "websocket": "^1.0.31"
+  }
+}
